@@ -1,0 +1,5 @@
+music.playMelody("C G B E G B C E ", 120)
+music.playMelody("C5 G B E A G B C ", 120)
+music.playMelody("G B E B C G C B ", 120)
+music.playMelody("- E C - D F C5 A ", 120)
+music.playMelody("A G F E - G D B ", 120)
